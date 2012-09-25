@@ -1,0 +1,3 @@
+name: SignLogger
+main: org.hanford.minecraft.SignLogger
+version: 1.0.0
